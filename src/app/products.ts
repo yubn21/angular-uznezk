@@ -8,27 +8,20 @@ export interface Product {
 export const products = [
   {
     id: 1,
-    name: 'Phone XL',
-    price: 799,
-    description: 'A large phone with one of the best screens'
+    name: 'SimCorp Logo Backpack',
+    price: 299,
+    description: 'A nice, blue backpack with SimCorp Logo'
   },
   {
     id: 2,
-    name: 'Phone Mini',
-    price: 699,
-    description: 'A great phone with one of the best cameras'
+    name: 'SimCorp Logo Powerbank',
+    price: 160,
+    description: 'A ppowerbank with SimCorp Logo'
   },
   {
     id: 3,
-    name: 'Phone Standard',
-    price: 299,
-    description: ''
+    name: 'SimCorp Logo Mug',
+    price: 39,
+    description: 'A white mug with SimCorp Logo'
   }
 ];
-
-
-/*
-Copyright Google LLC. All Rights Reserved.
-Use of this source code is governed by an MIT-style license that
-can be found in the LICENSE file at https://angular.io/license
-*/
