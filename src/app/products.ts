@@ -16,12 +16,18 @@ export const products = [
     id: 2,
     name: 'SimCorp Logo Powerbank',
     price: 160,
-    description: 'A ppowerbank with SimCorp Logo'
+    description: 'A powerbank with SimCorp Logo'
   },
   {
     id: 3,
     name: 'SimCorp Logo Mug',
-    price: 39,
+    price: 28,
     description: 'A white mug with SimCorp Logo'
+  },
+  {
+    id: 4,
+    name: 'SimCorp Logo Unmbrella',
+    price: 45,
+    description: 'A black umbrella with SimCorp Logo'
   }
 ];
